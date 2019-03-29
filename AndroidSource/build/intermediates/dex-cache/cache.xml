@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/ded4d1ed53df2395277710f6794b821c0ee438c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_ed2559ad3cc04f1dc40c35f5cf780a29ec2ec60c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_7dc39966e962575d9512906fa425e64ef877b9eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/d3781c7ada744108f8b77e57162278c5964a9314/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_77fc5cfb8e1c2a2bbb69e24fddd586955c659c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/376cb87d87beacdc98ee1e1d494958fad5910c8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_9feafab1ee21345eed1d6ec3d1859932569487ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/7dcb39fad682f2156890448df7dcf07c28d29ea1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_0a1e87c24d927b071c322688030edb2e7f973bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/76554857cf8e1d13921cb094f27cfc52a71facb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c70d3d4cb2d0b16c435c716fa169cb506929269b">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_32fe80c2f609eed774f644d31739ade4e915adea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/a6138259cd292ba249b951ab9879b2b35618f3f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_7ed60d07b79403ae8cfc2248dcd14e435fd94c49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/047bf8b84c290a6d1969a7e4bd6b814a14713663/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_e9e803527c22c6f09aa25d26f21418fdd51f88fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/7b8179809b31867bab6dbab253fde3494252c730/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_df2d79af028f4cd694d65342986cb6d08a428a1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/2ecfd42248e3791ff812e4cecf0ffde534e023d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_a97260667172cbdd74fb36e076fb72f4a9c7b75d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_e038edd7b8bfdcaa0041402fd46bac9cabe8d94b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/68c465b32f4722c127660c99aa2bc637489bd0a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_a195bbb1bc77de09fc12f4846a9af6d1f3238681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/Work/Android/Host/app/libs/RootTools.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5acf020c8db3eb87824b2f47949294732f04b019">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/RootTools_edc707c0aad5f25f9505ab6e979ce8da868ba100.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/cf6869d1eac2e51a38a334f0027b488e8f911be6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_6a8293e11580c7c359fe7fc4904fd6c83ae4ccb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/4411e82954cf812b625633739155d0f3a8e2f310/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_1f144e5c99dcb3ed0bbf37cfee87d80e781169b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/e1ee51f2fa05be368157ad3ce290c5229b7ba207/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_3a645caec12f0749a439f9f795fa37213a9f20f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/3ea45e8a91cc20d73268b0c8ca18022ece0d1e28/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_93c709bc17a5e6ee2a88eea674cf28b8a92b0cdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/cf10802ea02eacc7a960432f9783cb5572b3c6fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_1041407997d09252c1ea3d7271c9306eadb2346a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/7e3f8e2255d791d95959ee25639e499a32219825/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_931bf7126323cb2e04b8f16bbbeae2e9adfb9747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/gson-2.8.1_a47949a96187860d0d9548d65c0de3f61ec38e46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/a62946254677184739465608240c815a8286dc25/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_8c54c1afa57b7eaabaf87c79ef8031e0bb72d4fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/a199521d6ff9835b902e91d06f95fe246c50e44f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_d8f156924316d1ba85ac20fd9c55a7b7266aafa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/d0f07d7de3a0a997b3c9e49beafbd2e9310dfb97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_43fb934580201675db91de2c3b43bafd268b301f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/cb49a3cbb7410e0b54b93831c3e7c153ce525437/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_b93860e7907abeefbd252bbea6c0ec8467728c62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/187ebb4fc7cdfe15c9e055430e684d6778dfb857/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_b886f7095f18afc929384699c914f19503a59fd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/aebc5ea6b41299da3800b04022c242839e4cde5e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_8f8cb60dc962ca11cdd022403992c94c16bafb4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pan/.android/build-cache/b1ef8f2aa849e7b694152839cc0d261292e25b54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/pan/Work/Android/Host/app/build/intermediates/pre-dexed/debug/classes_3c7455aab027279aae3984b5244a7168c09a338d.jar" />
+    </item>
+
+</items>
