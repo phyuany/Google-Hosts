@@ -1,6 +1,12 @@
 # Google-Hosts
 hosts列表很多失效了
 
+# Android APP 科学上网原理
+Android APP需要使用root权限
+原理就是,从网络上下载一个hosts文件,然后把hosts文件替换到Android系统中
+
+在服务器上,保存一个JSON文件就行,记录Android中要更新的hosts文件的地址.Android APP在启动的时候会读取服务器端的JSON数据,如果有新的hosts会提示用户执行下载并替换本地的hosts
+
 ## 停止更新了，公开Android源代码
 
 完全停止更新了，并且公开Android源代码，核心代码如下
